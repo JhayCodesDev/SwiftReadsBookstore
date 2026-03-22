@@ -24,7 +24,7 @@ SwiftReads was designed to **practice and demonstrate responsive web design** sk
 ## 📸 Screenshots
 
 ![Desktop View](https://github.com/JhayCodesDev/SwiftReadsBookstore/blob/main/img/SwiftReads%20Desktop%20View.png?raw=true)
-![Mobile View][(https://github.com/JhayCodesDev/SwiftReadsBookstore/blob/main/img/SwiftReads%20Mobile%20View.png?raw=true)
+![Mobile View](https://github.com/JhayCodesDev/SwiftReadsBookstore/blob/main/img/SwiftReads%20Mobile%20View.png?raw=true)
 
 ---
 
